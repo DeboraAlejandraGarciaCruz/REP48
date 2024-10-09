@@ -21,8 +21,5 @@ Una aplicación web simple de lista de tareas (To-Do List) que permite a los usu
 - `script.js`: Maneja la lógica de la aplicación y las interacciones del usuario.
 - `helpers.js`: Contiene funciones de apoyo para marcar y eliminar tareas.
 
-## Cómo Ejecutar el Proyecto
-
-1. Clona este repositorio en tu máquina local.
-   ```bash
-   git clone https://github.com/tu-usuario/ToDoListApp.git
+## Autor
+Debora Alejandra

@@ -1,5 +1,5 @@
 # To-Do List App 
-En f
+En
 Una aplicación web simple de lista de tareas (To-Do List) que permite a los usuarios agregar, marcar como completadas y eliminar tareas. Es un proyecto ideal para principiantes que buscan mejorar sus habilidades en HTML, CSS y JavaScript.
 
 ## Características

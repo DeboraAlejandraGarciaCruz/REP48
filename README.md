@@ -1,4 +1,4 @@
-# To-Do List App 1
+# To-Do List App 
 En formato apa 
 Una aplicación web simple de lista de tareas (To-Do List) que permite a los usuarios agregar, marcar como completadas y eliminar tareas. Es un proyecto ideal para principiantes que buscan mejorar sus habilidades en HTML, CSS y JavaScript.
 

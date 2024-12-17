@@ -22,4 +22,4 @@ Una aplicación web simple de lista de tareas (To-Do List) que permite a los usu
 - `helpers.js`: Contiene funciones de apoyo para marcar y eliminar tareas.
 
 ## Autor
-Debora Alejandra Garcia Cruz 
+Débora Alejandra García Cruz. 

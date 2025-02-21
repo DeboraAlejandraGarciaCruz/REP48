@@ -14,7 +14,7 @@ Una aplicación web simple de lista de tareas (To-Do List) que permite a los usu
 - JavaScript
 
 ## Estructura del Proyecto
-1234568
+12345689
 - `index.html`: Página principal con la interfaz de usuario.
 - `styles.css`: Estilos para la aplicación.
 - `script.js`: Maneja la lógica de la aplicación y las interacciones del usuario.
